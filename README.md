@@ -2,9 +2,9 @@
 
 ### 公會戰畫面
 ##### 低階(1、2、3階段)
-
+![alt text][image2]
 ##### 高階(4、5階段)
-
+![alt text][image1]
 
 ### 預定第幾周第幾王（需要時可以加入備註，例如：殘刀）
 
@@ -20,3 +20,5 @@
 
 ## 錯誤測試
 
+[image1]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image1.png?raw=true
+[image2]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image2.png?raw=true
