@@ -4,7 +4,7 @@
 ##### 低階(1、2、3階段)
 
 ##### 高階(4、5階段)
-[!alt text][clanDisplay2]
+
 
 ### 預定第幾周第幾王（需要時可以加入備註，例如：殘刀）
 
@@ -20,6 +20,3 @@
 
 ## 錯誤測試
 
-
-[clanDisplay1]:
-[clanDisplay2]:https://images-ext-1.discordapp.net/external/GB7mFt8nu6cH_3Z4tiwF9IRmaaLrr07IJq4eZPaITDw/%3Fwidth%3D1319%26height%3D609/https/media.discordapp.net/attachments/772391337273851914/903193899324043304/IMG_1956.png
