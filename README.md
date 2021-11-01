@@ -7,7 +7,8 @@
 ![alt text][image1]
 
 ### 預定第幾周第幾王（需要時可以加入備註，例如：殘刀）
-
+![alt text][image3]
+!boss 
 ### 一次出擊結算畫面
 
 ### 於Discord呼叫機器人紀錄／更新實際傷害
@@ -22,3 +23,4 @@
 
 [image1]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image1.png?raw=true
 [image2]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image2.png?raw=true
+[image3]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image3.png?raw=true
