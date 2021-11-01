@@ -1,23 +1,30 @@
 # Princess_Connect_Bot
 
-### 公會戰畫面
+### ◇ 公會戰畫面
 ##### 低階(1、2、3階段)：
 ![alt text][image2]
+###### 示意圖僅供參考
 ##### 高階(4、5階段)：
 ![alt text][image1]
+###### 示意圖僅供參考
 
-### 一次出擊結算畫面
+### ◇ 一次出擊結算畫面
+![alt text][image6]
+###### 示意圖僅供參考
 
-### 預定第幾周第幾王（需要時可以加入備註，例如：殘刀）
+### ◇ 預定第幾周第幾王（需要時可以加入備註，例如：殘刀）
 ![alt text][image3]
+###### 示意圖僅供參考
 ##### ※ !boss N M damage -> 呼叫機器人預定第N周M王，例如：!boss 50 1 2400 -> 預報50周1王2400萬傷害
 
-### 呼叫機器人顯示指定周次的報刀表
+### ◇ 呼叫機器人顯示指定周次的報刀表
 ![alt text][image4]
+###### 示意圖僅供參考
 ##### ※ !check N -> 呼叫機器人顯示第N周預定表，例如：!check 50 -> 顯示第50周報刀預定表
 
-### 於Discord呼叫機器人紀錄／更新實際傷害
+### ◇ 於Discord呼叫機器人紀錄／更新實際傷害
 ![alt text][image5]
+###### 示意圖僅供參考
 ##### ※ !reboss N M oldDamage newDamage -> 呼叫機器人更新於第N周M王紀錄的傷害
 
 ##### 此動作可以保證其他人不會因為機器人紀錄的血量與遊戲內BOSS血量差異過大，而造成的多或少報刀
@@ -29,3 +36,4 @@
 [image3]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image3.png?raw=true
 [image4]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image4.png?raw=true
 [image5]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image5.png?raw=true
+[image6]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image6.png?raw=true
