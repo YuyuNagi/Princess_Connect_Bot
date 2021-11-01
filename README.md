@@ -17,14 +17,15 @@
 ##### ※ !check N -> 呼叫機器人顯示第N周預定表，例如：!check 50 -> 顯示第50周報刀預定表
 
 ### 於Discord呼叫機器人紀錄／更新實際傷害
+![alt text][image5]
+##### ※ !reboss N M oldDamage newDamage -> 呼叫機器人更新於第N周M王紀錄的傷害
 
 ##### 此動作可以保證其他人不會因為機器人紀錄的血量與遊戲內BOSS血量差異過大，而造成的多或少報刀
 ###### 例1：機器人記錄傷害過高，導致遊戲內BOSS尚未死亡，機器人記錄血量卻為0
 ###### 例2：機器人記錄傷害過低，導致同一周同一王太多人報刀造成有人報了卻無法出刀
 
-## 錯誤測試
-
 [image1]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image1.png?raw=true
 [image2]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image2.png?raw=true
 [image3]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image3.png?raw=true
 [image4]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image4.png?raw=true
+[image5]: https://github.com/YuyuNagi/Princess_Connect_Bot/blob/main/image5.png?raw=true
